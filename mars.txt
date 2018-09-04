@@ -1,4 +1,8 @@
 cold and dry, but everything is my favourite color
 the two moon may be a problem
 mummy will appreciate the lack of humidity
+<<<<<<< HEAD
 last commit by host
+=======
+this is added by collaborator chicken and egg
+>>>>>>> 06486529d5b93946528faf03e178e019e39c6279
